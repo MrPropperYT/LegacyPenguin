@@ -1,5 +1,5 @@
 # LegacyPenguin
-a PC Launcher for Minecraft: Legacy Console Edition, which simplifies managing your MCLCE instances.
+a PC Launcher for Minecraft: Legacy Console Edition, which simplifies managing your MC:LCE instances.
 
 ## Features
 LegacyPenguin was built with being feature-rich in mind, some of these features include:
